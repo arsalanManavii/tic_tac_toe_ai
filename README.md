@@ -1,7 +1,9 @@
 This Is A TicTacToe Game That You Can Either Play By Your Own With Bot(Unbeatable One) Or Your Friend
+
 I Used Mini-Max Algorithm To Implement Bot-Player In This Game 
+
 I Hope This Application Is Useful For Those Who Need It
-And Hope You Guys Like It
+And You Guys Like It
 
 The Goals Of This Project Is 
 
