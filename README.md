@@ -1,16 +1,14 @@
-# tic_tac_toe_ai_version
+This Is A TicTacToe Game That You Can Either Play By Your Own With Bot(Unbeatable One) Or Your Friend
+I Used Mini-Max Algorithm To Implement Bot-Player In This Game 
+I Hope This Application Is Useful For Those Who Need It
+And Hope You Guys Like It
 
-A new Flutter project.
+The Goals Of This Project Is 
 
-## Getting Started
+1. Work With Random UI And Try To Implement It 
+2. Work With Animation
+3. Trying To Create A Game With Player-Bot Option
+4. Learn And Implement New Algorithm(Mini-max Algorithm)
+5. Work On My Clean Code Skills And Ability Or Separate Operations And UI With Functions and files
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image_tictactoe](https://github.com/arsalanManavii/tic_tac_toe_ai/assets/141827056/0c1e3785-326d-4349-843e-968fb8f832c9)
